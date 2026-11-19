@@ -1,4 +1,4 @@
-# KELEA PLAY · Java OOP learning project
+# PLAY · Java OOP learning project
 
 Simulador de plataforma de streaming en consola, hecho en **Java 21 puro** (sin Maven/Gradle ni dependencias) para
 aprender programación orientada a objetos y las herramientas modernas del lenguaje. Cada concepto está aplicado
